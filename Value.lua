@@ -1,2 +1,2 @@
-local value = 5
+local value = A7x
 return value
